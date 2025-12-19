@@ -18,9 +18,6 @@ I’m a high school STEM student with a deep passion for AI and technology. I en
   <a href="mailto:mo_eltahawy@yahoo.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Yahoo&logo=microsoft-outlook&label=&color=6001d2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="outlook logo" />
   </a>
-  <a href="https://tryhackme.com/p/ali.kotb2004" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo" />
-  </a>
 </div>
 
 
@@ -41,6 +38,7 @@ I’m a high school STEM student with a deep passion for AI and technology. I en
 <img align="left" alt="Canva" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
+<br>
 
 # 📊 GitHub Stats:
 <p align="center">
