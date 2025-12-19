@@ -1,6 +1,6 @@
 # 🏄‍♂️Ba7r
 
-**'Code Bugger'**
+**`Code Bugger`**
 
 I’m a high school STEM student with a deep passion for AI and technology. I enjoy turning ideas into real systems through coding, experimentation, and problem-solving, with projects spanning machine learning, computer vision, reverse-engineering and hardware integration.
 
@@ -40,7 +40,6 @@ I’m a high school STEM student with a deep passion for AI and technology. I en
 <img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg"/>
 <img align="left" alt="nodejs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
 <img align="left" alt="Canva" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg"/>
-<br />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
 <img align="left" alt="CARLA" width="30px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/33029185?s=200&v=4"/>
