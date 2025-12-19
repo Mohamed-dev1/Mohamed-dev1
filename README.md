@@ -47,7 +47,7 @@ I’m a high school STEM student with a deep passion for AI and technology. I en
 <br />
 <br />
 
-
+<br/>
 ### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-dev1&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
