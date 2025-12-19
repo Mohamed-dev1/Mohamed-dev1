@@ -40,12 +40,12 @@ I’m a high school STEM student with a deep passion for AI and technology. I en
 <img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg"/>
 <img align="left" alt="nodejs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
 <img align="left" alt="Canva" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg"/>
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
-<img align="left" alt="CARLA" width="30px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/33029185?s=200&v=4"/>
+<img align="left" alt="Git" width="30px" style="padding-right:10px; padding-top:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px; padding-top:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
+<img align="left" alt="CARLA" width="30px" style="padding-right:10px; padding-top:5px;" src="https://avatars.githubusercontent.com/u/33029185?s=200&v=4"/>
 <br />
 <br />
-#
+
 
 ### 📊 GitHub Stats:
 <p align="center">
