@@ -44,10 +44,10 @@ I’m a high school STEM student with a deep passion for AI and technology. I en
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
 <img align="left" alt="CARLA" width="30px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/33029185?s=200&v=4"/>
 <br />
-
+<br />
 #
 
-###📊 GitHub Stats:
+### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-dev1&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
   <br/><br/>
